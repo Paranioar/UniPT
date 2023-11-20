@@ -27,7 +27,7 @@ Please refer to their respective README.md file for the detailed settings.
 
 
 ## Guidance for Applications
-We summarize the positions where UniPT is defined and invoked in each work as follows:
+We summarize the positions where UniPT is defined and invoked in each work as follows:  
 **We hope these help you quickly realize your idea beyond UniPT.**
 
 
