@@ -17,7 +17,7 @@ Overview of the Framework with (a) parallel interaction ($\varphi$) and (b) conf
 
 **Image-Text Retrieval: *[VSE-infty](https://github.com/Paranioar/UniPT/blob/main/VSE-infty/README.md)*** with the strongest combination of a BERT-base model and a ResNeXt-101(32×8d) backbone pre-trained on Instagram (WSL).
 
-**Video-text Retrieval: *[CLIP4Clip](https://github.com/Paranioar/UniPT/blob/main/CLIP4Clip/README.md)*** with the pre-trained CLIP network using Text Transformer and ViT-B/32 models.
+**Video-Text Retrieval: *[CLIP4Clip](https://github.com/Paranioar/UniPT/blob/main/CLIP4Clip/README.md)*** with the pre-trained CLIP network using Text Transformer and ViT-B/32 models.
 
 **Question Answering: *[CLIP-ViL](https://github.com/Paranioar/UniPT/blob/main/CLIP-ViL/README.md)*** that utilizes the CLIP image backbone and encodes the text into the word embedding sequence, followed by a cross-modal Transformer.
 
