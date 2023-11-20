@@ -15,13 +15,13 @@ Overview of the Framework with (a) parallel interaction ($\varphi$) and (b) conf
 
 ## Task & Model Details
 
-**Image-Text Retrieval: *[VSE-infty]("./VSE-infty/README.md")*** with the strongest combination of BERT-base model and ResNeXt-101(32×8d) backbone pre-trained on Instagram (WSL).
+**Image-Text Retrieval: *[VSE-infty](https://github.com/Paranioar/UniPT/blob/main/VSE-infty/README.md)*** with the strongest combination of a BERT-base model and a ResNeXt-101(32×8d) backbone pre-trained on Instagram (WSL).
 
-**Video-text Retrieval: *[CLIP4Clip]("./CLIP4Clip/README.md")*** with pre-trained CLIP network using Text Transformer and ViT-B/32 models.
+**Video-text Retrieval: *[CLIP4Clip](https://github.com/Paranioar/UniPT/blob/main/CLIP4Clip/README.md)*** with the pre-trained CLIP network using Text Transformer and ViT-B/32 models.
 
-**Question Answering: *[CLIP-ViL]("./CLIP-ViL/README.md")*** that utilizes CLIP image backbone and encodes the text into word embedding sequence, followed by a cross-modal Transformer.
+**Question Answering: *[CLIP-ViL](https://github.com/Paranioar/UniPT/blob/main/CLIP-ViL/README.md)*** that utilizes the CLIP image backbone and encodes the text into the word embedding sequence, followed by a cross-modal Transformer.
 
-**Visual Grounding: *[MDETR]("./MDETR/README.md")*** with pre-trained ResNet-101 vision encoder, RoBERTa-base text encoder, and query-based encoder-decoder Transformer.
+**Visual Grounding: *[MDETR](https://github.com/Paranioar/UniPT/blob/main/MDETR/README.md)*** with a pre-trained ResNet-101 vision encoder, a RoBERTa-base text encoder, and a query-based encoder-decoder Transformer.
 
 Please refer to their respective README.md file for the detailed settings.
 
