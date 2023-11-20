@@ -1,0 +1,8 @@
+{
+  "combine_datasets": ["flickr"],
+  "combine_datasets_val": ["flickr"],
+  "GT_type" : "separate",
+  "flickr_img_path" : "data/f30k/flickr30k-images",
+  "flickr_dataset_path" : "data/f30k",
+  "flickr_ann_path" : "mdetr_annotations/"
+}

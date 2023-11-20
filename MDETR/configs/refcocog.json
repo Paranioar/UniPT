@@ -1,0 +1,9 @@
+{
+    "combine_datasets": ["refexp"],
+    "combine_datasets_val": ["refexp"],
+    "refexp_dataset_name": "refcocog",
+    "coco_path": "data/coco2014/images/",
+    "refexp_ann_path": "mdetr_annotations/",
+    "epochs": 10,
+    "lr_drop": 5
+}
