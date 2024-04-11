@@ -1,7 +1,7 @@
 # UniPT
 *PyTorch implementation for CVPR2024 paper of [**“UniPT: Universal Parallel Tuning for Transfer Learning with Efficient Parameter and Memory”**](https://arxiv.org/abs/2308.14316).* 
 
-*It is built on top of the [VSE-infty](https://github.com/woodfrog/vse_infty), [CLIP-ViL](https://github.com/clip-vil/CLIP-ViL), [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip), [MDETR](https://github.com/ashkamath/mdetr), [LST](https://github.com/ylsung/Ladder-Side-Tuning) and [Awesome_Pretraining_Transfering](https://github.com/Paranioar/Awesome_Cross_Modal_Pretraining_Transfering).* 
+*It is built on top of the [VSE-infty](https://github.com/woodfrog/vse_infty), [CLIP-ViL](https://github.com/clip-vil/CLIP-ViL), [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip), [MDETR](https://github.com/ashkamath/mdetr), [LST](https://github.com/ylsung/Ladder-Side-Tuning) and [Awesome_Pretraining_Transfering](https://github.com/Paranioar/Awesome_Matching_Pretraining_Transfering).* 
 
 *If any problems, please contact me at r1228240468@gmail.com. (diaohw@mail.dlut.edu.cn is deprecated)*
 
