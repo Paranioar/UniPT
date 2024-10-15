@@ -7,11 +7,11 @@
 
 ## Introduction
 
-**The framework of UniPT:**
+We propose an innovative strategy called **UniPT** for memory-efficient transfer learning. Specifically, we facilitate the transfer process via a lightweight and learnable parallel network, which consists of 1) A parallel interaction module that decouples the sequential connections and processes the intermediate activations detachedly from the pre-trained network. 2) A confidence aggregation module that learns optimal strategies adaptively for integrating cross-layer features.
 
-<img src="./0-docs/UniPT.png" width = "100%" height="50%">
+**The framework and applications of UniPT:**  
 
-Overview of the Framework with (a) parallel interaction ($\varphi$) and (b) confidence aggregation ($\theta$) layers. The former attempts to extract more discriminative features at each layer independently guided by the relatively most powerful output features, while the latter learns a dynamic and optimal combination strategy over the blended features at each layer for the ultimate domain adaptation.
+<img src="./0-docs/UniPT.png" width="90%" height="85%">
 
 ## Task & Model Details
 
