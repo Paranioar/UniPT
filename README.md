@@ -9,7 +9,7 @@
 
 **The framework of UniPT:**
 
-<img src="./0-docs/application.jpg" width = "100%" height="50%">
+<img src="./0-docs/UniPT.png" width = "100%" height="50%">
 
 Overview of the Framework with (a) parallel interaction ($\varphi$) and (b) confidence aggregation ($\theta$) layers. The former attempts to extract more discriminative features at each layer independently guided by the relatively most powerful output features, while the latter learns a dynamic and optimal combination strategy over the blended features at each layer for the ultimate domain adaptation.
 
